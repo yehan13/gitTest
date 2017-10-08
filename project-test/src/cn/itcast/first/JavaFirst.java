@@ -10,5 +10,6 @@ public class JavaFirst {
 		
 		
 		System.out.println("1312412412412");
+		System.out.println("就会收到后发送快递---");
 	}
 }
